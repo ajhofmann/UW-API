@@ -1,4 +1,5 @@
 from uwaterlooapi import UWaterlooAPI
+uw = UWaterlooAPI(api_key="INSERT API KEY")
 from Tkinter import *
 
 # Initialize Graphics
